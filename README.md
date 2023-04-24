@@ -7,7 +7,7 @@ This OSINT tool is designed for CTI analysts to perform IP and domain analysis. 
 To install the required Python packages, please run the following command:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## API Tokens
