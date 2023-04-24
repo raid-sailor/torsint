@@ -36,7 +36,7 @@ Replace `/path/to/torsint` with the actual path of the `torsint` script on your 
 Once you have added the `torsint` script to your `PATH`, you can run the tool from the command line using the following command:
 
 ```
-torsint <ip/domain>
+torsint --domain / --ip <ip/domain>
 ```
 
 Replace `<ip/domain>` with the IP or domain you wish to analyze. 
